@@ -23,7 +23,7 @@
   <div> 
  <a href="https://www.instagram.com/italo.ferreira.5220/" height="30" width="40" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  <a href="https://www.facebook.com/italo.ferreira.5220" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" target="_blank"></a>
- <a href="https://www.linkedin.com/in/italo-ferreira-598223223/" target="_blank"><img src="https://icongr.am/devicon/linkedin-original.svg?size=128&color=currentColor" target="_blank"></a>
+ <a href="https://www.linkedin.com/in/italo-ferreira-598223223/" height="30" width="40" target="_blank"><img src="https://icongr.am/devicon/linkedin-original.svg?size=128&color=currentColor" target="_blank"></a>
 </div>
   
   ![Snake animation](https://github.com/ItaloFL/ItaloFL/blob/output/github-contribution-grid-snake.svg)
