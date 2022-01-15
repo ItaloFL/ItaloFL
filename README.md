@@ -7,7 +7,8 @@
 - Call me on [Instagram](https://www.instagram.com/italo.ferreira.5220/) or [Linkedin](https://www.linkedin.com/in/italo-ferreira-598223223/) 📚
 
 - Wanting to evolve above all, let's go together 🛠.
-
+ 
+<br></br>
 
 <div>
   <a href="https://github.com/ItaloFL">
