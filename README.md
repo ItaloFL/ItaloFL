@@ -4,7 +4,7 @@
 
 - If you want to do a project with me or ask for help with something, feel free to contact me. 😉
 
-- Call me on Instagram[https://www.instagram.com/italo.ferreira.5220/] or Linkedin[https://www.linkedin.com/in/italo-ferreira-598223223/] 📚
+- Call me on [Instagram](https://www.instagram.com/italo.ferreira.5220/) or [Linkedin](https://www.linkedin.com/in/italo-ferreira-598223223/) 📚
 
 - Wanting to evolve above all, let's go together 🛠.
 
