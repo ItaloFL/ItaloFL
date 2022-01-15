@@ -1,7 +1,5 @@
-# Hi, i am Italo Ferreira
+# Hi, i am Italo Ferreira, nice to meet you!
 
-
-## Currently, studying front-end, always wanting to evolve, nice to meet you.
 
 <div>
   <a href="https://github.com/ItaloFL">
@@ -9,20 +7,14 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ItaloFL&layout=compact&langs_count=7&theme=dark"/>
 </div>
   
-  <div style="display: inline_block"><br>
-  <img align="center" alt="Italo-ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="Italo-ts" height="30" width="40" src="https://icongr.am/devicon/html5-original.svg?size=128&color=currentColor">
-  <img align="center" alt="Italo-nodejs" height="30" width="40" src="https://icongr.am/devicon/css3-original.svg?size=128&color=currentColor">
-  <img align="center" alt="Italo-nodejs" height="30" width="40" src="https://icongr.am/devicon/nodejs-original.svg?size=128&color=currentColor">
-  <img align="center" alt="Italo-git" height="30" width="40" src="https://icongr.am/devicon/git-original.svg?size=128&color=currentColor">
-  <img align="center" alt="Italo-docker" height="50" width="50" src="https://icongr.am/devicon/docker-original.svg?size=128&color=currentColor">
-</div>
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
+![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
+![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
+![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql)&nbsp;
 
-##
+
+
   
-  <div> 
- <a href="https://www.instagram.com/italo.ferreira.5220/" height="30" width="40" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- <a href="https://www.facebook.com/italo.ferreira.5220" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" target="_blank"></a>
-</div>
-  
-  ![Snake animation](https://github.com/ItaloFL/ItaloFL/blob/output/github-contribution-grid-snake.svg)
+ ![Snake animation](https://github.com/ItaloFL/ItaloFL/blob/output/github-contribution-grid-snake.svg)
