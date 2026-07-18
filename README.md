@@ -2,10 +2,6 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=F57C00&center=true&vCenter=true&width=940&lines=Ol%C3%A1%2C+eu+sou+Italo+Ferreira+Lopes;Desenvolvedor+Full-Stack;React+%E2%80%A2+Node.js+%E2%80%A2+TypeScript" alt="Typing intro" />
 
-<br/>
-
-<img src="https://img.shields.io/badge/Disponível-para_novas_oportunidades-22C55E?style=for-the-badge&labelColor=0F0F0F" alt="Disponível para novas oportunidades" />
-
 <br/><br/>
 
 <h3>Italo Ferreira Lopes</h3>
