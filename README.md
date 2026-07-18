@@ -72,32 +72,6 @@ Desenvolvedor full-stack apaixonado por transformar ideias em produtos digitais 
 
 ---
 
-## Projetos em destaque
-
-| Projeto | Descrição | Links |
-| :--- | :--- | :---: |
-| **Orderly** | Plataforma de pedidos com microsserviços, RabbitMQ, JWT e Docker | [Repo](https://github.com/ItaloFL/orderly) |
-| **Portal A Tribuna** | Website e CMS para jornal local — React, Node.js, Prisma e Redis | [Site](https://atribuna.net.br/) |
-| **GIAP** | Sistema de gestão patrimonial para WebAcademy / UFAC | [Demo](https://giapdocker-front.srv750236.hstgr.cloud/) |
-| **Kyte Car** | Plataforma de gestão de veículos com stack moderna e testes | [Site](https://kytecar-web.vercel.app) · [Repo](https://github.com/ItaloFL/kytecar-api) |
-| **Coffe House** | E-commerce de cafés com backend containerizado | [Site](https://coffehouse-web.vercel.app) · [Repo](https://github.com/ItaloFL/coffehouse-web) |
-| **Portfólio** | Site pessoal com tema claro/escuro e integração Spotify | [Site](https://italofldev.com/) · [Repo](https://github.com/ItaloFL/portfolio) |
-
----
-
-## Experiência
-
-**VRSoftware** · Desenvolvedor Backend · *Jul 2026 – Atual*  
-Desenvolvimento de sistemas corporativos do ecossistema Grupo VR, com foco em APIs REST, SQL e integrações entre ERP, CRM e automação.
-
-**Portal Atribuna** · Desenvolvedor Full Stack · *Nov 2025 – Mar 2026*  
-Portal de notícias e CMS completo — React, Node.js, PostgreSQL, Prisma, Redis e Docker em produção.
-
-**WebAcademy Motorola** · Desenvolvedor Frontend · *Ago 2025 – Mar 2026*  
-Sistema de gestão patrimonial (GIAP) com Angular, TypeScript e RxJS na UFAC.
-
----
-
 ## GitHub
 
 <div align="center">
