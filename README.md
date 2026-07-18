@@ -19,7 +19,6 @@
 <p>
   <a href="https://github.com/ItaloFL" target="_blank"><img src="https://img.shields.io/badge/GitHub-ItaloFL-181818?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
   <a href="https://www.linkedin.com/in/italo-ferreira-dev" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-italo--ferreira--dev-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://www.instagram.com/italonfl" target="_blank"><img src="https://img.shields.io/badge/Instagram-@italonfl-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
 </p>
 
 </div>
