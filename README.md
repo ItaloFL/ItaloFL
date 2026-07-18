@@ -69,9 +69,6 @@ Desenvolvedor full-stack apaixonado por transformar ideias em produtos digitais 
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ItaloFL&show_icons=true&theme=react&include_all_commits=true&count_private=true&hide_border=true&bg_color=0F0F0F&title_color=F57C00&icon_color=F57C00&text_color=EDEDED" alt="GitHub Stats" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ItaloFL&layout=compact&langs_count=8&theme=react&hide_border=true&bg_color=0F0F0F&title_color=F57C00&text_color=EDEDED" alt="Top Languages" />
-
 <br/>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=ItaloFL&theme=react&hide_border=true&background=0F0F0F&ring=F57C00&fire=F57C00&currStreakLabel=F57C00&sideLabels=EDEDED&dates=818181" alt="GitHub Streak" />
