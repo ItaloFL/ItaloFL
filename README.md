@@ -8,8 +8,6 @@
 
 <br/><br/>
 
-<img src="https://avatars.githubusercontent.com/u/83084631?v=4" width="120" style="border-radius: 50%;" alt="Italo Ferreira Lopes" />
-
 <h3>Italo Ferreira Lopes</h3>
 <p><strong>Desenvolvedor Full-Stack</strong> · Rio Branco, Acre · Brasil</p>
 
