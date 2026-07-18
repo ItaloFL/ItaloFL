@@ -69,8 +69,6 @@ Desenvolvedor full-stack apaixonado por transformar ideias em produtos digitais 
 
 <div align="center">
 
-<br/>
-
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=ItaloFL&theme=react&hide_border=true&background=0F0F0F&ring=F57C00&fire=F57C00&currStreakLabel=F57C00&sideLabels=EDEDED&dates=818181" alt="GitHub Streak" />
 
 </div>
