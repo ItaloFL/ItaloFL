@@ -31,8 +31,7 @@ Desenvolvedor full-stack apaixonado por transformar ideias em produtos digitais 
 
 - Trabalho com **React**, **Node.js** e **TypeScript** no dia a dia
 - Experiência em **APIs REST**, **PostgreSQL**, **Prisma**, **Docker** e **Redis**
-- Disponível para **remoto ou híbrido** no Brasil
-- Sempre em evolução — aprendizado contínuo faz parte do processo
+- Sempre em evolução. Aprendizado contínuo faz parte do processo
 
 ---
 
