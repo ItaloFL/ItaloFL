@@ -29,8 +29,8 @@
 
 Desenvolvedor full-stack apaixonado por transformar ideias em produtos digitais com qualidade, performance e atenção à experiência do usuário. Atuo do frontend ao backend, com foco em código limpo, boa comunicação em equipe e entrega de valor em produção.
 
-- Trabalho com **React**, **Node.js** e **TypeScript** no dia a dia
-- Experiência em **APIs REST**, **PostgreSQL**, **Prisma**, **Docker** e **Redis**
+- Trabalho com **Node.js**, **PostgreSQL**, **Prisma** e **TypeScript** no dia a dia
+- Experiência em **APIs REST**, **React**, **Docker** e **Redis**
 - Sempre em evolução. Aprendizado contínuo faz parte do processo
 
 ---
